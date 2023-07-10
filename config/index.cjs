@@ -37,12 +37,12 @@ const USER_CONFIG = {
         },
       ],
       // 我们在一起已经有xxxx天了的配置
-      customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', 日期: '2016-06-26' },
-        // 结婚纪念日
-        { keyword: 'marry_day', 日期: '2023-03-23' },
-      ],
+      // customizedDateList: [
+      //   // 在一起的日子
+      //   { keyword: 'love_day', 日期: '2016-06-26' },
+      //   // 结婚纪念日
+      //   { keyword: 'marry_day', 日期: '2023-03-23' },
+      // ],
     },
     {
       // 想要发送的人的名字
@@ -64,12 +64,12 @@ const USER_CONFIG = {
         },
       ],
       // 我们在一起已经有xxxx天了的配置
-      customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', 日期: '2016-06-26' },
-        // 结婚纪念日
-        { keyword: 'marry_day', 日期: '2023-03-23' },
-      ],
+      // customizedDateList: [
+      //   // 在一起的日子
+      //   { keyword: 'love_day', 日期: '2016-06-26' },
+      //   // 结婚纪念日
+      //   { keyword: 'marry_day', 日期: '2023-03-23' },
+      // ],
     },
   ],
 
